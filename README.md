@@ -28,6 +28,8 @@ La sección `experience` incluye mi historial laboral, cada entrada describe el 
 
 Una vez completado el archivo `index.html`, lo publiqué en un servidor web para que esté disponible en línea. Puedes ver mi currículum vitae digital en el siguiente enlace:
 
-[Ver Currículum Vitae Digital](https://marciabelmar.github.io/cv-marcia)
+[Ver Currículum Vitae Digital](https://marciabelmar.github.io/CV-MARCIA/)
+
+
 
 
